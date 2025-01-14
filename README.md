@@ -9,7 +9,7 @@ Here's a basic implementation in Python:
 1. Install required libraries:
 pip install pillow pytesseract pyautogui
 
-2.Install Tesseract OCR:
+2. Install Tesseract OCR:
 On Windows, download the installer from Tesseract's GitHub page.
 On Linux, use your package manager: sudo apt-get install tesseract-ocr.
 On macOS, use Homebrew: brew install tesseract.
